@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+.venv/
+venv/
+
+# Go
+*.exe
+
+# OS / Editor
+.DS_Store
+*.log
+
+# Others
+.env
+
